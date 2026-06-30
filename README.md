@@ -106,7 +106,7 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
-| Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Select By ID | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 
 ---
 
