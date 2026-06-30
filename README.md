@@ -11,7 +11,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Statistics</h3>
       <ul>
-        <li><b>Total Solved:</b> 20</li>
+        <li><b>Total Solved:</b> 21</li>
         <li><b>Current Streak:</b> 🔥 1 Days</li>
         <li><b>Longest Streak:</b> ⚡ 1 Days</li>
         <li><b>Last Sync:</b> 📅 2026-06-30</li>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td>🟢 <b>Easy:</b> 20 (100%)</td>
+    <td>🟢 <b>Easy:</b> 21 (100%)</td>
     <td><svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="250" height="14" rx="7" fill="#2ea043" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎯 Current Milestone: 20 / 500 Problems (4%)
+## 🎯 Current Milestone: 21 / 500 Problems (4%)
 <svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="10" height="14" rx="7" fill="#38bdf8" />
@@ -76,12 +76,12 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SQL:</b> 20 solutions</li>
+        <li><b>SQL:</b> 21 solutions</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>HackerRank:</b> 20 submissions</li>
+        <li><b>HackerRank:</b> 21 submissions</li>
       </ul>
     </td>
   </tr>
@@ -106,6 +106,7 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
+| Average Population of Each Continent | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | African Cities | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Employee Salaries | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Employee Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
@@ -115,7 +116,6 @@
 | Weather Observation Station 10 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 9 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 8 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Weather Observation Station 7 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 
 ---
 
