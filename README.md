@@ -107,7 +107,6 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
-| Duplicate Emails | `SQL` | **LeetCode** | 2026-06-30 | 🟢 Success |
 | Average Population of Each Continent | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | African Cities | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Employee Salaries | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
