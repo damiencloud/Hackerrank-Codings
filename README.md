@@ -11,7 +11,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Statistics</h3>
       <ul>
-        <li><b>Total Solved:</b> 15</li>
+        <li><b>Total Solved:</b> 16</li>
         <li><b>Current Streak:</b> 🔥 1 Days</li>
         <li><b>Longest Streak:</b> ⚡ 1 Days</li>
         <li><b>Last Sync:</b> 📅 2026-06-30</li>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td>🟢 <b>Easy:</b> 15 (100%)</td>
+    <td>🟢 <b>Easy:</b> 16 (100%)</td>
     <td><svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="250" height="14" rx="7" fill="#2ea043" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎯 Current Milestone: 15 / 500 Problems (3%)
+## 🎯 Current Milestone: 16 / 500 Problems (3%)
 <svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="8" height="14" rx="7" fill="#38bdf8" />
@@ -76,12 +76,12 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SQL:</b> 15 solutions</li>
+        <li><b>SQL:</b> 16 solutions</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>HackerRank:</b> 15 submissions</li>
+        <li><b>HackerRank:</b> 16 submissions</li>
       </ul>
     </td>
   </tr>
@@ -106,6 +106,7 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
+| Weather Observation Station 12 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 11 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 10 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 9 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
@@ -115,7 +116,6 @@
 | Weather Observation Station 3 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Weather Observation Station 1 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Japanese Cities' Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 
 ---
 
