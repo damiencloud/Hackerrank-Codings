@@ -11,7 +11,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Statistics</h3>
       <ul>
-        <li><b>Total Solved:</b> 5</li>
+        <li><b>Total Solved:</b> 6</li>
         <li><b>Current Streak:</b> 🔥 1 Days</li>
         <li><b>Longest Streak:</b> ⚡ 1 Days</li>
         <li><b>Last Sync:</b> 📅 2026-06-30</li>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td>🟢 <b>Easy:</b> 5 (100%)</td>
+    <td>🟢 <b>Easy:</b> 6 (100%)</td>
     <td><svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="250" height="14" rx="7" fill="#2ea043" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎯 Current Milestone: 5 / 500 Problems (1%)
+## 🎯 Current Milestone: 6 / 500 Problems (1%)
 <svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="3" height="14" rx="7" fill="#38bdf8" />
@@ -76,12 +76,12 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SQL:</b> 5 solutions</li>
+        <li><b>SQL:</b> 6 solutions</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>HackerRank:</b> 5 submissions</li>
+        <li><b>HackerRank:</b> 6 submissions</li>
       </ul>
     </td>
   </tr>
@@ -106,16 +106,16 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
+| Japanese Cities' Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Japanese Cities' Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Japanese Cities' Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Japanese Cities' Names | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
+| Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Japanese Cities' Attributes | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Japanese Cities' Attributes | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Japanese Cities' Attributes | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 | Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Select By ID | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Select By ID | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Select By ID | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Select All | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Revising the Select Query II | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
-| Weather Observation Station 6 | `SQL` | **HackerRank** | 2026-06-30 | 🟢 Success |
 
 ---
 
