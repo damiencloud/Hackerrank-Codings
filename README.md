@@ -11,7 +11,7 @@
     <td width="100%" valign="top">
       <h3>🏆 Statistics</h3>
       <ul>
-        <li><b>Total Solved:</b> 2</li>
+        <li><b>Total Solved:</b> 3</li>
         <li><b>Current Streak:</b> 🔥 1 Days</li>
         <li><b>Longest Streak:</b> ⚡ 1 Days</li>
         <li><b>Last Sync:</b> 📅 2026-07-01</li>
@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td>🟢 <b>Easy:</b> 2 (100%)</td>
+    <td>🟢 <b>Easy:</b> 3 (100%)</td>
     <td><svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="250" height="14" rx="7" fill="#2ea043" />
@@ -50,10 +50,10 @@
 
 ---
 
-## 🎯 Current Milestone: 2 / 500 Problems (0%)
+## 🎯 Current Milestone: 3 / 500 Problems (1%)
 <svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
-  <rect width="0" height="14" rx="7" fill="#38bdf8" />
+  <rect width="3" height="14" rx="7" fill="#38bdf8" />
 </svg>
 
 ---
@@ -68,12 +68,12 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SQL:</b> 2 solutions</li>
+        <li><b>SQL:</b> 3 solutions</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>HackerRank:</b> 2 submissions</li>
+        <li><b>HackerRank:</b> 3 submissions</li>
       </ul>
     </td>
   </tr>
@@ -98,6 +98,7 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
+| Population Census | `SQL` | **HackerRank** | 2026-07-01 | 🟢 Success |
 | Weather Observation Station 5 | `SQL` | **HackerRank** | 2026-07-01 | 🟢 Success |
 | Revising the Select Query I | `SQL` | **HackerRank** | 2026-07-01 | 🟢 Success |
 
